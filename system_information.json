@@ -3,10 +3,10 @@
   "ttl": 60,
   "version": "2.3",
   "data": {
-    "system_id": "socar_my",
+    "system_id": "sobike_my",
     "language": "en",
-    "name": "SoCar Malaysia",
-    "operator": "SoCar",
+    "name": "sobike Malaysia",
+    "operator": "sobike",
     "timezone": "Asia/Kuala_Lumpur"
   }
 }
