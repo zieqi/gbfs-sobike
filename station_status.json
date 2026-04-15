@@ -5,7 +5,7 @@
   "data": {
     "stations": [
       {
-        "station_id": "socar_kl_sentral",
+        "station_id": "sobike_kl_sentral",
         "num_bikes_available": 5,
         "num_docks_available": 5,
         "is_installed": true,
@@ -13,13 +13,13 @@
         "is_returning": true,
         "last_reported": 1709500000,
         "vehicle_types_available": [{
-          "vehicle_type_id": "socar_bike",
+          "vehicle_type_id": "sobike_bike",
           "count": 5
           }
         ]  
       },
       {
-        "station_id": "socar_montkiara",
+        "station_id": "sobike_montkiara",
         "num_bikes_available": 3,
         "num_docks_available": 5,
         "is_installed": true,
@@ -27,18 +27,18 @@
         "is_returning": true,
         "last_reported": 1709500000,
         "vehicle_docks_available": [{
-          "vehicle_type_ids": ["socar_bike"],
+          "vehicle_type_ids": ["sobike_bike"],
           "count": 5
           }
         ],
         "vehicle_types_available": [{
-          "vehicle_type_id": "socar_bike",
+          "vehicle_type_id": "sobike_bike",
           "count": 3  
           }
         ]   
       },
       {
-        "station_id": "socar_montkiara2",
+        "station_id": "sobike_montkiara2",
         "num_bikes_available": 3,
         "num_docks_available": 5,
         "is_installed": true,
@@ -46,12 +46,12 @@
         "is_returning": true,
         "last_reported": 1709500000,
         "vehicle_docks_available": [{
-          "vehicle_type_ids": ["socar_bike"],
+          "vehicle_type_ids": ["sobike_bike"],
           "count": 5
           }
         ],
         "vehicle_types_available": [{
-          "vehicle_type_id": "socar_bike",
+          "vehicle_type_id": "sobike_bike",
           "count": 3  
           }
         ]  
