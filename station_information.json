@@ -5,22 +5,22 @@
   "data": {
     "stations": [
       {
-        "station_id": "socar_kl_sentral",
-        "name": "SoCar KL Sentral",
+        "station_id": "sobike_kl_sentral",
+        "name": "sobike KL Sentral",
         "lat": 3.1357,
         "lon": 101.6880,
         "capacity": 10
       },
       {
-        "station_id": "socar_montkiara",
-        "name": "SoCar Mont Kiara",
+        "station_id": "sobike_montkiara",
+        "name": "sobike Mont Kiara",
         "lat": 3.1672,
         "lon": 101.6527,
         "capacity": 8
       },
       {
-        "station_id": "socar_montkiara2",
-        "name": "SoCar Mont Kiara 2",
+        "station_id": "sobike_montkiara2",
+        "name": "sobike Mont Kiara 2",
         "lat": 3.170920,
         "lon": 101.6382, 
         "capacity": 8
