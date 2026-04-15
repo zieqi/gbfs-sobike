@@ -5,19 +5,19 @@
   "data": {
     "vehicle_types": [
       {
-        "vehicle_type_id": "socar_sedan",
+        "vehicle_type_id": "sobike_sedan",
         "form_factor": "car",
         "propulsion_type": "combustion",
         "max_range_meters": 600000
       },
       {
-        "vehicle_type_id": "socar_ev",
+        "vehicle_type_id": "sobike_ev",
         "form_factor": "car",
         "propulsion_type": "electric",
         "max_range_meters": 450000
       },
       {
-        "vehicle_type_id": "socar_bike",
+        "vehicle_type_id": "sobike_bike",
         "form_factor": "car",
         "propulsion_type": "electric",
         "max_range_meters": 450000
