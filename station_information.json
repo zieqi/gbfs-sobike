@@ -24,7 +24,21 @@
         "lat": 3.170920,
         "lon": 101.6382, 
         "capacity": 8
-      }
+      },
+      {
+        "station_id": "sobike_jayaone",
+        "name": "sobike Jaya One",
+        "lat": 3.118551,
+        "lon": 101.6359, 
+        "capacity": 8
+      },
+      {
+        "station_id": "sobike_phileodamansara",
+        "name": "sobike Phileo Damansara",
+        "lat": 3.129445,
+        "lon": 101.6429, 
+        "capacity": 8
+      } 
     ]
   }
 }
